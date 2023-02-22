@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newslack/static/css/main.073c9b0a.css",
+    "main.js": "/newslack/static/js/main.3fb75656.js",
+    "static/js/787.b895957f.chunk.js": "/newslack/static/js/787.b895957f.chunk.js",
+    "static/media/logo.svg": "/newslack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/newslack/index.html",
+    "main.073c9b0a.css.map": "/newslack/static/css/main.073c9b0a.css.map",
+    "main.3fb75656.js.map": "/newslack/static/js/main.3fb75656.js.map",
+    "787.b895957f.chunk.js.map": "/newslack/static/js/787.b895957f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3fb75656.js"
+  ]
+}
